@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, PHP, TDD and JavaScript**
 
-- 💬 Ask me about **The project i'm working on or anything you want**
+- 💬 Ask me about **anything you want**
 
 - 📫 How to reach me **francalaysian@gmail.com**
 
