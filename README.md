@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yhfung/](https://www.linkedin.com/in/yhfung/)
 
-- ⚡ Fun fact **I'm interested in Theatre, Video editing as well as Photography**
+- ⚡ Fun fact **I'm interested in Theatre, Travel, Video editing as well as Photography**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
