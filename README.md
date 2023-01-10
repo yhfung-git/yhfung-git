@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Spe@kitOut](https://www.speakitout.help/)
 
-- 🌱 I’m currently learning **React, PHP, TDD and JavaScript**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **anything you want**
 
