@@ -1,7 +1,7 @@
 <h1 align="center">Hello👋, I'm Yong How</h1>
 <h3 align="center">Graduated from Le Wagon as a Full-Stack Web Developer</h3>
 
-- 🔭 I’m currently working on [Spe@kitOut](https://www.speakitout.help/)
+- 🔭 I’m currently looking for a **Full-time Web Developer Job**
 
 - 🌱 I’m currently learning **React**
 
