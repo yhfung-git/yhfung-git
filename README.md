@@ -9,7 +9,7 @@
 
 - 📫 Reach me at **francalaysian@gmail.com**
 
-- 📄 Learn more about me [https://www.linkedin.com/in/yhfung/](https://www.yhfung.click/)
+- 📄 Learn more about me [Portfolio](https://www.yhfung.click/)
 
 
 <h3 align="left">Connect with me:</h3>
