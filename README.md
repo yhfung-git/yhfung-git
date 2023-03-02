@@ -1,17 +1,16 @@
 <h1 align="center">Hello👋, I'm Yong How</h1>
-<h3 align="center">Graduated from Le Wagon as a Full-Stack Web Developer</h3>
+<h3 align="center">Graduated from Le Wagon, Marseille as a Full-Stack Web Developer</h3>
 
-- 🔭 I’m currently looking for a **Full-time Web Developer Job**
+- 🔭 I’m currently looking for a **Full-Stack / Front-end / Back-end Web Developer Job / Project**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React and Reux**
 
-- 💬 Ask me about **anything you want**
+- 🔜 Next to learn **TDD**
 
-- 📫 How to reach me **francalaysian@gmail.com**
+- 📫 Reach me at **francalaysian@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/yhfung/](https://www.linkedin.com/in/yhfung/)
+- 📄 Learn more about me [https://www.linkedin.com/in/yhfung/](https://www.yhfung.click/)
 
-- ⚡ Fun fact **I'm interested in Theatre, Travel, Video editing as well as Photography**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
