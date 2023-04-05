@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and Redux**
 
-- 🔜 Plan to learn **Ajax, API REST, Node.js, Next.js, RSpec, Hotwire, Turbo, Sidekiq, Redis, SEO, React Native...**
+- 🔜 Plan to learn **Ajax, Node.js, Next.js, RSpec, Hotwire, Turbo, Sidekiq, Redis, SEO, React Native...**
 
 - 📫 Reach me at **francalaysian@gmail.com**
 
