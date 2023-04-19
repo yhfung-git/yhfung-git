@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking for a **Full-Stack / Front-end / Back-end Web Developer Job / Project**
 
-- 🌱 I’m currently learning **React - (incl Hooks, React Router, Redux) on Udemy, Google Data Analytics & Google UX Design on Coursera**
+- 🌱 I’m currently learning **React - (incl Hooks, React Router, Redux) on Udemy and Google UX Design on Coursera**
 
 - 🔜 Plan to learn **Ajax, Node.js, React Native, Jest, Next.js, RSpec, Hotwire, Turbo, Sidekiq, Redis...**
 
