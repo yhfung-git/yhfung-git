@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React - (incl Hooks, React Router, Redux) on Udemy and Google UX Design on Coursera**
 
-- 🔜 Plan to learn **Ajax, Node.js, React Native, Jest, Next.js, RSpec, Hotwire, Turbo, Sidekiq, Redis...**
+- 🔜 Plan to learn **Node.js**
 
 - 📫 Reach me at **francalaysian@gmail.com**
 
