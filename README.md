@@ -1,9 +1,11 @@
 <h1 align="center">Hello👋, I'm Yong How</h1>
 <h3 align="center">Graduated from Le Wagon in Marseille as a Full-Stack Web Developer</h3>
 
-- 🌱 I’m currently learning **React - (incl Hooks, React Router, Redux) on Udemy and Google UX Design on Coursera**
+- ✅ As a graduate of Le Wagon Coding Bootcamp in Marseille, I obtained a certificate in Full Stack Web Development and acquired a comprehensive understanding of Full Stack technologies.
 
-- 🔜 Plan to learn **Node.js**
+- 👨‍💻 I am actively expanding my skills and knowledge through self-directed learning, including **Google UX Design on Coursera**.
+
+- 🎯 With a strong drive for continuous learning and growth, my aim is to contribute to the field of Full Stack development by exploring diverse opportunities and delivering exceptional results for every project.
 
 - 📫 Reach me at **francalaysian@gmail.com**
 
