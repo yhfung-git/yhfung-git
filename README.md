@@ -1,11 +1,13 @@
 <h1 align="center">Hello👋, I'm Yong How</h1>
-<h3 align="center">Graduated from Le Wagon in Marseille as a Full-Stack Web Developer</h3>
+<h3 align="center">A Full Stack Web Developer</h3>
 
-- ✅ As a graduate of Le Wagon Coding Bootcamp in Marseille, I obtained a certificate in Full Stack Web Development and acquired a comprehensive understanding of Full Stack technologies.
+- ✅ Having graduated from Le Wagon Coding Bootcamp, I achieved a certificate in Full Stack Web Development.
 
-- 👨‍💻 I am actively expanding my skills and knowledge through self-directed learning, including **Google UX Design on Coursera**.
+- 👨‍💻 Actively enhancing my skills and knowledge through online courses.
 
-- 🎯 With a strong drive for continuous learning and growth, my aim is to contribute to the field of Full Stack development by exploring diverse opportunities and delivering exceptional results for every project.
+- 🎯 Driven by a passion for continuous learning and professional advancement, I seek to explore diverse opportunities and consistently deliver outstanding results for every project.
+
+- 💯 Key Attributes: Team player, Adaptability, Organizational skills, Detail-oriented, Versatility & Autonomy
 
 - 📫 Reach me at **francalaysian@gmail.com**
 
