@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 Full Stack Web Developer</h1>
 
-- ✅ Having graduated from Le Wagon Coding Bootcamp, I achieved a certificate in Full Stack Web Development.
+- ✅ Having graduated from Le Wagon Coding Bootcamp with a certificate in Full Stack Web Development.
 
 - 👨‍💻 Actively enhancing my skills and knowledge through online courses.
 
