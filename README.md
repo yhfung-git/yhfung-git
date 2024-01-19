@@ -1,5 +1,4 @@
-<h1 align="center">Hello👋, I'm Howard</h1>
-<h3 align="center">A Full Stack Web Developer</h3>
+<h1 align="center">Full Stack Web Developer</h1>
 
 - ✅ Having graduated from Le Wagon Coding Bootcamp, I achieved a certificate in Full Stack Web Development.
 
