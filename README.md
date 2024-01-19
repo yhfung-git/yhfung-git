@@ -1,4 +1,4 @@
-<h1 align="center">Full Stack Web Developer</h1>
+<h1 align="center">👨‍💻 Full Stack Web Developer</h1>
 
 - ✅ Having graduated from Le Wagon Coding Bootcamp, I achieved a certificate in Full Stack Web Development.
 
