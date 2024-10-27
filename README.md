@@ -14,7 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yhfung/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yhfung/" height="30" width="40" /></a>
-<a href="https://www.yhfung.click/" target="_blank"><img align="center" src="https://www.yhfung.click/assets/logo-512x512-removebg-eaf320379bbf3e47d5a792c74f217f1bf91303e1f659b18d0966918772ff68f6.png" alt="https://www.yhfung.click/" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
